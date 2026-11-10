@@ -1,0 +1,99 @@
+{
+  "seed": 20261022,
+  "customers": 200,
+  "months": 18,
+  "all_checksums_match": true,
+  "files": {
+    "billing_events.csv": {
+      "rows_run_1": 3000,
+      "rows_run_2": 3000,
+      "sha256_run_1": "25142179d552759940cd6b75dbf6c2d004aaae3c158a17520b2256af69971a14",
+      "sha256_run_2": "25142179d552759940cd6b75dbf6c2d004aaae3c158a17520b2256af69971a14",
+      "match": true
+    },
+    "campaign_contacts.csv": {
+      "rows_run_1": 202,
+      "rows_run_2": 202,
+      "sha256_run_1": "75d382282131fa9c93a47c151d39ac3585bc9ec3075c4ac2af1a7ab6f1323976",
+      "sha256_run_2": "75d382282131fa9c93a47c151d39ac3585bc9ec3075c4ac2af1a7ab6f1323976",
+      "match": true
+    },
+    "churn_outcomes.csv": {
+      "rows_run_1": 200,
+      "rows_run_2": 200,
+      "sha256_run_1": "351cd2602a7f3df83b79f02bc05fc0222285e8eedc10d06581a032b8cea005aa",
+      "sha256_run_2": "351cd2602a7f3df83b79f02bc05fc0222285e8eedc10d06581a032b8cea005aa",
+      "match": true
+    },
+    "customers.csv": {
+      "rows_run_1": 200,
+      "rows_run_2": 200,
+      "sha256_run_1": "76ea3f270538a687033c5afcd51475245e7f8d323f57d673bcaf371f23e7c889",
+      "sha256_run_2": "76ea3f270538a687033c5afcd51475245e7f8d323f57d673bcaf371f23e7c889",
+      "match": true
+    },
+    "eligibility_rules.csv": {
+      "rows_run_1": 3,
+      "rows_run_2": 3,
+      "sha256_run_1": "41fae08d6db3c2d624eb4c2f58bd875e085ca6c0b7e6e96d8615735c791abac5",
+      "sha256_run_2": "41fae08d6db3c2d624eb4c2f58bd875e085ca6c0b7e6e96d8615735c791abac5",
+      "match": true
+    },
+    "features.csv": {
+      "rows_run_1": 200,
+      "rows_run_2": 200,
+      "sha256_run_1": "0afdfb2c62caff2077783b989af84e9f95e036d53cc432d8a033f1d7d8f74d33",
+      "sha256_run_2": "0afdfb2c62caff2077783b989af84e9f95e036d53cc432d8a033f1d7d8f74d33",
+      "match": true
+    },
+    "ground_truth.csv": {
+      "rows_run_1": 4,
+      "rows_run_2": 4,
+      "sha256_run_1": "9ac4204c3d64b6d0a5570fa4884a048f848243d19a53b81364720f96754e3283",
+      "sha256_run_2": "9ac4204c3d64b6d0a5570fa4884a048f848243d19a53b81364720f96754e3283",
+      "match": true
+    },
+    "offers.csv": {
+      "rows_run_1": 3,
+      "rows_run_2": 3,
+      "sha256_run_1": "cfa8f7cc96d0814cf614a6ea9d3c366dab3803f0d1c9cdd9a0c5fc347eade84c",
+      "sha256_run_2": "cfa8f7cc96d0814cf614a6ea9d3c366dab3803f0d1c9cdd9a0c5fc347eade84c",
+      "match": true
+    },
+    "plan_change_events.csv": {
+      "rows_run_1": 39,
+      "rows_run_2": 39,
+      "sha256_run_1": "127cceb5823804695cec2af80b716f5ad8cc10baeb12cb97186778793c7e7886",
+      "sha256_run_2": "127cceb5823804695cec2af80b716f5ad8cc10baeb12cb97186778793c7e7886",
+      "match": true
+    },
+    "retention_outcomes.csv": {
+      "rows_run_1": 148,
+      "rows_run_2": 148,
+      "sha256_run_1": "0d5cd67314d26d8249e35d7742832f7a8d0c8aab2f532fb6d8b2490950aa8520",
+      "sha256_run_2": "0d5cd67314d26d8249e35d7742832f7a8d0c8aab2f532fb6d8b2490950aa8520",
+      "match": true
+    },
+    "subscriptions.csv": {
+      "rows_run_1": 200,
+      "rows_run_2": 200,
+      "sha256_run_1": "411d5c18e3727c2a11e31e1e5cf891e00900df487af237044112a963f35641ee",
+      "sha256_run_2": "411d5c18e3727c2a11e31e1e5cf891e00900df487af237044112a963f35641ee",
+      "match": true
+    },
+    "support_cases.csv": {
+      "rows_run_1": 214,
+      "rows_run_2": 214,
+      "sha256_run_1": "8fa319a5694fae32a3f2dc5bb2cf6bd55ae0f4f7d9aa85af9c033d2dca9d7a8a",
+      "sha256_run_2": "8fa319a5694fae32a3f2dc5bb2cf6bd55ae0f4f7d9aa85af9c033d2dca9d7a8a",
+      "match": true
+    },
+    "usage_snapshots.csv": {
+      "rows_run_1": 3000,
+      "rows_run_2": 3000,
+      "sha256_run_1": "22bfe85ca904065367669ee68975b46399b8e15a94113377bccabcc6ab3ae65a",
+      "sha256_run_2": "22bfe85ca904065367669ee68975b46399b8e15a94113377bccabcc6ab3ae65a",
+      "match": true
+    }
+  }
+}

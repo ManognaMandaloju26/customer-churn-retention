@@ -1,0 +1,5 @@
+issue_id,entity,entity_id,issue_type,ground_truth
+ISSUE-001,ChurnOutcome,CHURN-CUS-000001-2026,churn_before_prediction_date,invalid_temporal_label
+ISSUE-002,CampaignContact,CONTACT-CUS-000005-001,offer_sent_to_ineligible_customer,eligibility_violation
+ISSUE-003,CampaignContact,CONTACT-CUS-000001-001-LEAK,treatment_control_leakage,conflicting_assignment
+ISSUE-004,RetentionOutcome,RET-CUS-000001-2026-DUP,multiple_offer_attribution,duplicate_attribution

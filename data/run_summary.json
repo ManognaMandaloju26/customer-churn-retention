@@ -1,0 +1,24 @@
+{
+  "customers": 20000,
+  "validation_issue_count": 4,
+  "model_metrics": {
+    "accuracy": 0.6258,
+    "precision": 0.24623720650210718,
+    "recall": 0.3978599221789883,
+    "f1": 0.3042023056898475,
+    "roc_auc": 0.55971616490531,
+    "test_rows": 5000
+  },
+  "campaign_metrics": {
+    "treatment_retention": 87.31955191130616,
+    "control_retention": 82.43227665706053,
+    "incremental_lift_pp": 4.887275254245638,
+    "treatment_n": 8659,
+    "control_n": 8675,
+    "offer_cost": 413485.0,
+    "incremental_margin": 12322350.200000003,
+    "incremental_retained_customers_est": 423.18916426512976,
+    "incremental_profit_est": -27627.158251631365,
+    "roi_pct": -6.681538206133563
+  }
+}

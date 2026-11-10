@@ -1,0 +1,4 @@
+offer_id,offer_name,discount_percentage,offer_cost,minimum_margin,status
+OFF-2026-000001,10% Renewal Discount,10,60.0,100.0,active
+OFF-2026-000002,20% Renewal Discount,20,120.0,180.0,active
+OFF-2026-000003,Loyalty Bonus,5,35.0,70.0,active

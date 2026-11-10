@@ -1,0 +1,67 @@
+{
+  "customers": {
+    "rows": 20000,
+    "sha256": "88ecf2b0dc1e260496c9c78944dccddc0c59c342bde72a75267cb1ab62f0e253",
+    "file": "data\\customers.csv"
+  },
+  "subscriptions": {
+    "rows": 20000,
+    "sha256": "14f787553b3db347ce8b5f4244d7538ffde3f0fa2f299292074f58e16cab8271",
+    "file": "data\\subscriptions.csv"
+  },
+  "usage_snapshots": {
+    "rows": 360000,
+    "sha256": "89d1e849e64e78a74d7acd930d9c113eb87ccab4ac6b838fb342e503041ed60d",
+    "file": "data\\usage_snapshots.csv"
+  },
+  "billing_events": {
+    "rows": 360000,
+    "sha256": "71718e8a9a900c1d7755c23c5531a554e0c67f22d60a81fed59367d46d66ac54",
+    "file": "data\\billing_events.csv"
+  },
+  "support_cases": {
+    "rows": 18848,
+    "sha256": "fb6156aaf9e41e3c148966d779f1c2259414c58d0c99ea236994f57b3084c25b",
+    "file": "data\\support_cases.csv"
+  },
+  "offers": {
+    "rows": 3,
+    "sha256": "cfa8f7cc96d0814cf614a6ea9d3c366dab3803f0d1c9cdd9a0c5fc347eade84c",
+    "file": "data\\offers.csv"
+  },
+  "eligibility_rules": {
+    "rows": 3,
+    "sha256": "41fae08d6db3c2d624eb4c2f58bd875e085ca6c0b7e6e96d8615735c791abac5",
+    "file": "data\\eligibility_rules.csv"
+  },
+  "campaign_contacts": {
+    "rows": 20002,
+    "sha256": "f21e30b65486b35bad713eb5ba899247b3729d52fe5277e181c4b6dd7f659d90",
+    "file": "data\\campaign_contacts.csv"
+  },
+  "plan_change_events": {
+    "rows": 3653,
+    "sha256": "96b554f7a6c9958e5d4a107ecda8f97b62d1a2518d7f36657fd337c62338df6c",
+    "file": "data\\plan_change_events.csv"
+  },
+  "churn_outcomes": {
+    "rows": 20000,
+    "sha256": "d527804799af3180bd945d1372f22f6e6665cbbcc4758132b7007bc16ebf65b3",
+    "file": "data\\churn_outcomes.csv"
+  },
+  "retention_outcomes": {
+    "rows": 17334,
+    "sha256": "0bdc5e24957fc901565205ac6195a1063ac97fdae332d65c2ac488993918ce7d",
+    "file": "data\\retention_outcomes.csv"
+  },
+  "features": {
+    "rows": 20000,
+    "sha256": "3337211cdc42e6362ba597ca09fe8ce7a07916527391c92346f904955f676a08",
+    "file": "data\\features.csv"
+  },
+  "ground_truth": {
+    "rows": 4,
+    "sha256": "83a35888f18653bd445e27c294cd311f2ab9f6862439caaf5f6cb24f1e3f5898",
+    "file": "data\\ground_truth.csv"
+  }
+}

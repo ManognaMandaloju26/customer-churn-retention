@@ -1,0 +1,9 @@
+seed: 20261022
+customers: 20000
+months: 18
+prediction_month: 18
+prediction_horizon_days: 90
+treatment_ratio: 0.5
+churn_rate_target_min: 0.05
+churn_rate_target_max: 0.20
+output_dir: data
